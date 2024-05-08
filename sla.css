@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    font-size: 20px;
+
+}
+p {
+    color: darkgoldenrod;
+}
+.color {
+    color: greenyellow;
+}
+li {
+    color: chartreuse;
+}
