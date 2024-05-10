@@ -1,0 +1,28 @@
+
+#pintar {
+     background-color: yellowgreen;
+}
+#cor{
+    background-color: darkolivegreen;
+}
+#color{
+    background-color: lightseagreen;
+}
+.nome {
+    color: darkgoldenrod;
+    border: 4px solid black;
+}
+body {
+animation:piscapisca 1s infinite;
+}
+@keyframes piscapisca {
+    0%{
+        background-color: black
+    }
+    50%{
+        background-color: darkcyan;
+    }
+    100%{
+        background-color: indigo;
+    }
+} 
